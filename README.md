@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Purpose
 
-You can use the [editor on GitHub](https://github.com/thinkingfish/ncov-doctor-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Collecting and translating notes from doctors who have been treating hundreds of new coronavirus patients in China, whose experiences hopefully will help medical professionals and patients elsewhere.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Sources
 
-### Markdown
+Reputable Chinese websites and well respected individuals/accounts on social media (will include source).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Links to original posts will be listed in this doc, translated version will be displayed as Github Pages.
 
-```markdown
-Syntax highlighted code block
+# Content
 
-# Header 1
-## Header 2
-### Header 3
+## Tong Zhaohui
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thinkingfish/ncov-doctor-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Note 1, 2020 Feb 6](http://www.zhishifenzi.com/depth/depth/8195.html)
+[Note 2, 2020 Feb 8](http://www.zhishifenzi.com/depth/depth/8221.html)
+[Note 3, 2020 Feb 13](http://www.zhishifenzi.com/depth/depth/8250.html)
+[Note 4, 2020 Feb 23](http://m.zhishifenzi.com/depth/depth/8321.html)
+[Note 5, 2020 Feb 28](http://m.zhishifenzi.com/depth/depth/8377.html)

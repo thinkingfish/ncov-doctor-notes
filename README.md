@@ -10,7 +10,7 @@ Links to original posts will be listed in this doc, translated version will be d
 
 # Content
 
-## Tong Zhaohui
+## Tong Zhaohui / 童朝晖诊疗笔记
 
 - [Note 1, 2020 Feb 6](http://www.zhishifenzi.com/depth/depth/8195.html)
 - [Note 2, 2020 Feb 8](http://www.zhishifenzi.com/depth/depth/8221.html)

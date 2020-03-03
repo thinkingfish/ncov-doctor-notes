@@ -8,6 +8,11 @@ Reputable Chinese websites and well respected individuals/accounts on social med
 
 Links to original posts will be listed in this doc, translated version will be displayed as Github Pages.
 
+## Live Summary Updates
+
+[丁香园，中文](https://ncov.dxy.cn/)
+[Worldometers, English](https://www.worldometers.info/coronavirus/)
+
 # Content
 
 ## Tong Zhaohui / 童朝晖诊疗笔记

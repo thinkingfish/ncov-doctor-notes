@@ -10,8 +10,8 @@ Links to original posts will be listed in this doc, translated version will be d
 
 ## Live Summary Updates
 
-[丁香园，中文](https://ncov.dxy.cn/)
-[Worldometers, English](https://www.worldometers.info/coronavirus/)
+- [丁香园，中文](https://ncov.dxy.cn/)
+- [Worldometers, English](https://www.worldometers.info/coronavirus/)
 
 # Content
 

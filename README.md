@@ -8,12 +8,17 @@ Reputable Chinese websites and well respected individuals/accounts on social med
 
 Links to original posts will be listed in this doc, translated version will be displayed as Github Pages.
 
-## Live Summary Updates
-
-- [丁香园，中文](https://ncov.dxy.cn/)
-- [Worldometers, English](https://www.worldometers.info/coronavirus/)
+## Data Tracker and Live Summary Updates
+- [1point3acres - focus on US](https://coronavirus.1point3acres.com/en)
+- [argis - worldwide](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 # Content
+
+## Data  
+- [Data Modeling](https://github.com/midas-network/COVID-19)
+- [Chinese Report for MLP Analysis](https://github.com/2019ncovmemory/nCovMemory)
+- [Data Visualization](https://github.com/globalcitizen/2019-wuhan-coronavirus-data)
+
 
 ## Tong Zhaohui / 童朝晖诊疗笔记
 
